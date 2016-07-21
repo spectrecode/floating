@@ -1,0 +1,32 @@
+/* Pon tu código css aqui */
+.contenedor	{
+	border: 1px solid #CCCCCC;
+	overflow: auto;
+}
+
+.contenedor div{
+	float: left;
+
+}
+
+.amarillo	{
+/*	float: left;
+*/	background-color: #FFFF00;
+	height: 100px;
+	width: 25%;
+}
+
+.cyan	{
+	/*float: left;*/
+	background-color: #3A81BA;
+	height: 100px;
+	width: 25%;
+}
+
+.magenta	{
+	/*float: left;*/
+	background-color: #ED2251;
+	height: 100px;
+	width: 25%;
+
+}
