@@ -1,32 +1,23 @@
-/* Pon tu código css aqui */
 .contenedor	{
-	border: 1px solid #CCCCCC;
-	overflow: auto;
+	width: 700px;
+	border: 4px solid #CCCCCC;
+	overflow: hidden;
 }
 
-.contenedor div{
-	float: left;
-
-}
-
-.amarillo	{
-/*	float: left;
-*/	background-color: #FFFF00;
+.caja	{
 	height: 100px;
 	width: 25%;
+	float: left;
+}
+
+.amarilla	{
+	background-color: #FFFF00;		
 }
 
 .cyan	{
-	/*float: left;*/
 	background-color: #3A81BA;
-	height: 100px;
-	width: 25%;
 }
 
 .magenta	{
-	/*float: left;*/
 	background-color: #ED2251;
-	height: 100px;
-	width: 25%;
-
 }

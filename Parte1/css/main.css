@@ -1,24 +1,21 @@
 .contenedor	{
-	height: 300px;
+	width: 700px;
 	border: 4px solid #CCCCCC;
 }
 
-
-
-.amarillo	{
-	background-color: #FFFF00;
+.caja	{
 	height: 100px;
-	width: 25%;	
+	width: 25%;
+}
+
+.amarilla	{
+	background-color: #FFFF00;		
 }
 
 .cyan	{
 	background-color: #3A81BA;
-	height: 100px;
-	width: 25%;
 }
 
 .magenta	{
 	background-color: #ED2251;
-	height: 100px;
-	width: 25%;
 }

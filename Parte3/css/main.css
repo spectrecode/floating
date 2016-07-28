@@ -1,31 +1,22 @@
-/* Pon tu código css aqui */
 .contenedor	{
-	border: 1px solid #CCCCCC;
+	width: 700px;
+	border: 4px solid #CCCCCC;
 }
 
-.contenedor div{
-	float: right;
-
-}
-
-.amarillo	{
-/*	float: left;
-*/	background-color: #FFFF00;
+.caja	{
 	height: 100px;
 	width: 25%;
+	float: right;
+}
+
+.amarilla	{
+	background-color: #FFFF00;		
 }
 
 .cyan	{
-	/*float: left;*/
 	background-color: #3A81BA;
-	height: 100px;
-	width: 25%;
 }
 
 .magenta	{
-	/*float: left;*/
 	background-color: #ED2251;
-	height: 100px;
-	width: 25%;
-
 }
